@@ -1,8 +1,7 @@
 # Diarios-Pandemicos
 
 ---
-layout: page
-title: Diarios Pandémicos
+
 ---
 
  
